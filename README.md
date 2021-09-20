@@ -1,2 +1,2 @@
-# cs320-lab2
-# cs320-lab2
+# CS320-lab2
+hello word!
